@@ -2,7 +2,7 @@ import streamlit as st
 import sklearn 
 import joblib
 
-st.title("IRIS API")
+st.title("IRIS API By Ahmed")
 
 # Webpage
 sl = st.slider('Sepal Length', 4.3, 7.9, 5.1)
